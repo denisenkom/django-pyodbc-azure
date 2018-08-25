@@ -7,6 +7,12 @@ django-pyodbc-azure
 .. image:: http://img.shields.io/pypi/l/django-pyodbc-azure.svg?style=flat
     :target: http://opensource.org/licenses/BSD-3-Clause
 
+.. image:: https://ci.appveyor.com/api/projects/status/i9hfnl2gfeiq82qb?svg=true
+    :target: https://ci.appveyor.com/project/denisenkom/django-pyodbc-azure
+
+.. image:: https://codecov.io/gh/denisenkom/django-pyodbc-azure/branch/master/graph/badge.svg
+  :target: https://codecov.io/gh/denisenkom/django-pyodbc-azure
+
 *django-pyodbc-azure* is a modern fork of
 `django-pyodbc <https://code.google.com/archive/p/django-pyodbc/>`__, a
 `Django <https://www.djangoproject.com/>`__ Microsoft SQL Server external
